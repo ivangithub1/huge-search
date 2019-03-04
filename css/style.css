@@ -30,8 +30,9 @@
      display: flex;
  }
 
- .bro {
+ .ba-qq {
      display: flex;
+     margin-left: -50px;
  }
 
  .ba-container {
@@ -42,12 +43,12 @@
 
  .ba-column {
      width: 33.33%;
+     padding-left: 30px;
  }
 
  .ba-hugesearch-list li {
      list-style: none;
-     /* outline: 1px solid red; */
-     margin-right: 75px;
+     /* margin-right: 75px; */
      border-radius: 10px;
 
  }
